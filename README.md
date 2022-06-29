@@ -1,4 +1,4 @@
-<div><h1>👋  Hi, there 👋</h1></div>
+<!--<div><h1>👋  Hi, there 👋</h1></div>
 <ul>
   <li>I'm studying to be a backend Developer.</li>
   <li>✨ chang chae-eun ✨ </li>
@@ -6,8 +6,7 @@
   <li>💻 Major : Convergence Software Engineering</li>
 </ul>
 <br>
-<br>
-
+<br>-->
 <div align=center><h3>💻 Current Learning 💻</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
