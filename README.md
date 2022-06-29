@@ -1,12 +1,8 @@
-<!--<div><h1>👋  Hi, there 👋</h1></div>
-<ul>
-  <li>I'm studying to be a backend Developer.</li>
-  <li>✨ chang chae-eun ✨ </li>
-  <li>👩‍🎓 Collage : MYONGJI UNIV. </li> 
-  <li>💻 Major : Convergence Software Engineering</li>
-</ul>
+<div><h1>👋  Hi, there 👋</h1></div>
+  👩‍🎓 Collage : MYONGJI UNIV.<br>
+  💻 Major : Convergence Software Engineering<br>
+  🌱 I'm studying to be a backend Developer. 🌱 <br>
 <br>
-<br>-->
 <div align=center><h3>💻 Current Learning 💻</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
@@ -29,8 +25,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white">
 
 </div>
-
-<br>
 <div align=center><h3>✨ Most Used Languages ✨</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerlo127&layout=compact&theme=nightowl)](https://github.com/chaerlo127/chaerlo127)
@@ -47,9 +41,6 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerlo127&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
  </div>
-
-<br>
-
 <!--
 **chaerlo127/chaerlo127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
