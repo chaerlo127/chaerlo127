@@ -1,8 +1,28 @@
 <div><h1>👋  Hi, there 👋</h1></div>
-  👩‍🎓 Collage : MYONGJI UNIV.<br>
+<div align = right> <a href="https://www.instagram.com/chaeng._.ni_127/">
+    <img 
+        src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://instagram.com/chaeng._.ni_127/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="mailto:monynony0203@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:monynony0203@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4">
+    <img 
+        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://monynony0203.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://monynony0203.tistory.com/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a></div>
+👩‍🎓 Collage : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
   🌱 I'm studying to be a backend Developer. 🌱 <br>
-<br>
+  <br>
+
 <div align=center><h3>💻 Current Learning 💻</h3>
 <div align=center> 
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
@@ -43,9 +63,11 @@
 <br>
 
 	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerlo127&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerlo127&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
 	
  </div>
+ 
+
 <!--
 **chaerlo127/chaerlo127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
