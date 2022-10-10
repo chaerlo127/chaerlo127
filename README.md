@@ -1,7 +1,7 @@
 <div><h1>👋  Hi, there 👋</h1></div>
 <div align = right> <a href="https://www.instagram.com/chaeng._.ni_127/">
     <img 
-        src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://instagram.com/chaeng._.ni_127/"
+        src="http://img.shields.io/badge/-Insta-black?style=flat&logo=Instagram&link=https://instagram.com/chaeng._.ni_/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="mailto:monynony0203@gmail.com">
     <img 
