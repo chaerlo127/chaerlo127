@@ -18,7 +18,7 @@
         src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://monynony0203.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></div>
-👩‍🎓 Collage : MYONGJI UNIV.<br>
+👩‍🎓 UNIV. : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
   🌱 I'm studying to be a backend Developer. 🌱 <br>
   <br>
