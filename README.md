@@ -10,14 +10,20 @@
 </a>
 <a href="https://chaeng-ni.notion.site/e748ab73539f46b8b1f7d1e648206ae4">
     <img 
-        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=ReverbNation&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4"
+        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://monynony0203.tistory.com/">
     <img 
-        src="http://img.shields.io/badge/-Blog-000000?style=flat&logo=Tistory&link=https://monynony0203.tistory.com/"
+        src="http://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&link=https://monynony0203.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></div>
+</a>
+<a href="https://velog.io/@chaerlo127/posts/">
+    <img 
+        src="http://img.shields.io/badge/Velog-000000?style=flat&logo=velog&link=https://velog.io/@chaerlo127/posts"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</div>
 👩‍🎓 UNIV. : MYONGJI UNIV.<br>
   💻 Major : Convergence Software Engineering<br>
   🌱 I'm studying to be a backend Developer. 🌱 <br>
