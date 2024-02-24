@@ -8,11 +8,6 @@
         src="https://img.shields.io/badge/Gmail-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:monynony0203@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://chaeng-ni.notion.site/e748ab73539f46b8b1f7d1e648206ae4">
-    <img 
-        src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white&link=https://bony-squirrel-b48.notion.site/Ari-e748ab73539f46b8b1f7d1e648206ae4"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <a href="https://monynony0203.tistory.com/">
     <img 
         src="http://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&link=https://monynony0203.tistory.com/"
